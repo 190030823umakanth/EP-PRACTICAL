@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!students_info SYSTEM "NewFile.dtd">
+<students_info>
+<student>         
+   <regno>170024</regno>
+   <name>umakanth</name> 
+   <email>umakanth@gmail.com</email> 
+   <marks>89</marks> 
+   <class>tenth</class> 
+           
+   <distinction>YES</distinction>
+ </student>
+ <student>         
+   <regno>170026</regno>
+   <name>madhu</name>
+   <email>madhu@gmail.com</email>
+   <marks>98</marks>
+   <class>tenth</class>             
+   <distinction>YES</distinction>
+ </student>
+ <student>         
+   <regno>170027</regno>
+   <name>harsha</name>
+   <email>harsha@gmail.com</email>
+   <marks>97</marks>
+   <class>tenth</class>             
+   <distinction>YES</distinction>
+ </student>
+ <student>         
+   <regno>170028</regno>
+   <name>surya</name>
+   <email>surya@gmail.com</email>
+   <marks>80</marks>
+   <class>tenth</class>
+   <distinction>YES</distinction>
+ </student>
+ <student>         
+   <regno>170026</regno>
+   <name>mahesh</name>
+   <email>mahesh@gmail.com</email>
+   <marks>98</marks>
+   <class>tenth</class>             
+   <distinction>YES</distinction>
+ </student>
+ 
+</students_info>
